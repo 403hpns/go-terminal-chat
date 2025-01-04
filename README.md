@@ -1,4 +1,4 @@
-# Terminal Chat Application in Go
+# Terminal Chat Application in <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang" />
 
 A simple terminal-based chat application written in Go that allows multiple users to communicate in real-time through a client-server architecture.
 
